@@ -56,7 +56,3 @@ The development of this Article Summarizer project showcases a harmonious integr
 
 ---
 
-*Note: Add any additional sections or details as needed.*
-
-# ai_summarizer
-# ai_summarizer
